@@ -1,0 +1,128 @@
+#loading {
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 30%;
+    left: 47%;
+    transform: translate(-10%, -10%);
+}
+
+.text {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    color: #262626;
+    position: relative;
+    top: 0;
+    left: 0;
+    text-align: center;
+    line-height: 300px;
+    font-size: 11px;
+    background: transparent;
+    animation: brightText 2s normal infinite;
+
+}
+
+.boxAnimate {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 0 4px 0 #262626;
+    background: transparent;
+    animation: circle 0.4s linear infinite;
+}
+
+@keyframes circle{
+
+    0% {
+        transform: rotate(0deg);
+        box-shadow:  4px 0 #c92c2c;
+    }
+
+    10% {
+        transform: rotate(15deg);
+        box-shadow:  4px 0 #c92c2c;
+    }
+
+    20% {
+        transform: rotate(30deg);
+        box-shadow:  4px 0 #c92c2c;
+    }
+
+    30% {
+        transform: rotate(45deg);
+        box-shadow:  4px 0 #fbff0b;
+    }
+
+    40% {
+        transform: rotate(60deg);
+        box-shadow:  4px 0 #1411d4;
+    }
+
+    50% {
+        transform: rotate(120deg);
+        box-shadow:  4px 0 #a75757;
+
+    }
+
+    50% {
+        transform: rotate(120deg);
+        box-shadow:  4px 0 #a75757;
+
+    }
+
+    60% {
+        transform: rotate(145deg);
+        box-shadow:  4px 0 #0df505;
+
+    }
+
+
+    70% {
+        transform: rotate(180deg);
+        box-shadow:  4px 0 #07e3eb;
+
+    }
+
+    80% {
+        transform: rotate(245deg);
+        box-shadow:  4px 0 #ec04c6;
+    }
+
+    90% {
+
+        transform: rotate(300deg);
+        box-shadow:  4px 0 #98a77d;
+    
+    }
+
+    100% {
+
+        transform: rotate(300deg);
+        box-shadow:  4px 0 #f86604;
+
+    }
+
+}
+
+@keyframes brightText {
+    0% {
+        color: rgb(235, 229, 229);
+    }
+
+
+    25%{
+        color: rgb(145, 140, 140);
+    }
+
+    50% {
+        color:  rgb(0, 0, 0);
+    }
+
+    75% {
+        color:   rgb(145, 140, 140);
+    }
+
+    100%{
+        color:  rgb(235, 229, 229);
+    }
+}

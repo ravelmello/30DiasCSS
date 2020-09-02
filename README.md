@@ -44,6 +44,7 @@ When finished, use:
 # Desafios
 
 * [Dia 1 - Icones com camadas e utilização do border radius](#dia01)
+* [Dia 2 - Loading customizado](#dia02)
 
 
 ## Desafio dia 1 - Icones com camadas <a name="dia01"></a>
@@ -57,6 +58,20 @@ When finished, use:
 * [:nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)
 * [css-animations](https://www.w3schools.com/css/css3_animations.asp)
 * [Transform property](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
+
+
+## Desafio dia 2 - Loading Customizado <a name="dia02"></a>
+![Dia 02](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia02/dia02.gif)
+
+* [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia02/index.js)
+* [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia02/styles.css)
+* [Post LinkedIn]()
+
+### Referencias estudadas
+* [Keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)
+* [Trasform translate](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/translate)
+* [Animations](https://www.w3schools.com/css/css3_animations.asp)
+
 
 # Créditos
 Milena Carecho
