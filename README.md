@@ -47,16 +47,16 @@ When finished, use:
 
 
 ## Desafio dia 1 - Icones com camadas <a name="dia01"></a>
-![Dia 01](src/pages/dia01/dia01.gif)
+![Dia 01](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia01/dia01.gif)
 
-[Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia01/index.js)
-[Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia01/styles.css)
-[Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6706731197453635584-OCyC)
+* [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia01/index.js)
+* [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia01/styles.css)
+* [Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6706731197453635584-OCyC)
 
 ### Referencias estudadas
-[:nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)
-[css-animations](https://www.w3schools.com/css/css3_animations.asp)
-[Transform property](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
+* [:nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)
+* [css-animations](https://www.w3schools.com/css/css3_animations.asp)
+* [Transform property](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
 
 # Créditos
 Milena Carecho
