@@ -1,0 +1,93 @@
+@import 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css';
+
+div #icons {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div #icons ul
+{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+div #icons ul li 
+{
+    position: relative;
+    list-style: none;
+    width: 60px;
+    height: 60px;
+    margin: 0 30px;
+    transform: rotate(-35deg) skew(25deg);
+    background: #ccc;
+    border-radius: 10px;
+}
+div #icons ul li span
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    transition: 0.5s;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    border-radius: 9px;
+    font-size: 30px !important;
+}
+div #icons ul li:hover span
+{
+    box-shadow: -1px 1px 1px rgba(0,0,0,.1);
+   
+}
+div #icons ul li:hover span:nth-child(5)
+{
+    transform: translate(40px, -40px);
+    opacity: 1;
+}
+div #icons ul li:hover span:nth-child(4)
+{
+    transform: translate(30px, -30px);
+    opacity: 0.8;
+}
+div #icons ul li:hover span:nth-child(3)
+{
+    transform: translate(20px, -20px);
+    opacity: 0.6;
+}
+div #icons ul li:hover span:nth-child(2)
+{
+    transform: translate(10px, -10px);
+    opacity: 0.4;
+}
+div #icons ul li:hover span:nth-child(1)
+{
+    transform: translate(0,0);
+    opacity: .2;
+}
+div #icons ul li:nth-child(1) span
+{
+    background: rgb(44, 82, 163);
+}
+div #icons ul li:nth-child(2) span
+{
+    background: rgb(34, 34, 34);
+}
+div #icons ul li:nth-child(3) span
+{
+    background: rgb(0, 119, 181);
+}
+div #icons ul li:nth-child(4) span
+{
+    background: #d44502;
+}
+
+

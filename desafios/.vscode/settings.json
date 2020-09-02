@@ -1,0 +1,29 @@
+{
+    // Define o tema do VSCode
+    "workbench.colorTheme":"Dracula",
+  
+    // Configura tamanho e família da fonte
+    "editor.fontSize":13,
+    "editor.lineHeight":20,
+    "editor.fontLigatures":true,
+  
+    // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+    "editor.rulers": [
+      80,
+      120
+    ],
+  
+    // Aplica um sinal visual na esquerda da linha selecionada
+    "editor.renderLineHighlight":"gutter",
+  
+    // Aumenta a fonte do terminal
+    "terminal.integrated.fontSize":13,
+  
+    // Define o tema dos ícones na sidebar
+    "workbench.iconTheme":"material-icon-theme",
+    
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ]
+  }
