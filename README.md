@@ -65,7 +65,7 @@ When finished, use:
 
 * [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia02/index.js)
 * [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia02/styles.css)
-* [Post LinkedIn]()
+* [Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6707048811388276736-W4M5)
 
 ### Referencias estudadas
 * [Keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)
