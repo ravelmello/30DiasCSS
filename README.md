@@ -45,6 +45,7 @@ When finished, use:
 
 * [Dia 1 - Icones com camadas e utilização do border radius](#dia01)
 * [Dia 2 - Loading customizado](#dia02)
+* [Dia 3 - Texto com cor alterada em nova div com animação](#dia03)
 
 
 ## Desafio dia 1 - Icones com camadas <a name="dia01"></a>
@@ -65,12 +66,29 @@ When finished, use:
 
 * [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia02/index.js)
 * [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia02/styles.css)
-* [Post LinkedIn]()
+* [Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6707048811388276736-W4M5)
+
 
 ### Referencias estudadas
 * [Keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)
 * [Trasform translate](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/translate)
 * [Animations](https://www.w3schools.com/css/css3_animations.asp)
+
+
+## Desafio dia 3 - Texto com cor alterada em nova div com animação <a name="dia03"></a>
+![Dia 03](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia03/dia03.gif)
+
+* [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia03/index.js)
+* [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia03/styles.css)
+* [Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6707486636873129984-QzJN)
+
+
+### Referencias estudadas
+* [Overflow](https://www.techonthenet.com/css/properties/overflow.php)
+* [Animations](https://www.w3schools.com/css/css3_animations.asp)
+* [Overflow - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow)
+
+
 
 
 # Créditos
