@@ -68,7 +68,6 @@ When finished, use:
 * [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia02/styles.css)
 * [Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6707048811388276736-W4M5)
 
-
 ### Referencias estudadas
 * [Keyframes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)
 * [Trasform translate](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/translate)
@@ -81,7 +80,6 @@ When finished, use:
 * [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia03/index.js)
 * [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia03/styles.css)
 * [Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6707486636873129984-QzJN)
-
 
 ### Referencias estudadas
 * [Overflow](https://www.techonthenet.com/css/properties/overflow.php)
