@@ -46,6 +46,7 @@ When finished, use:
 * [Dia 1 - Icones com camadas e utilização do border radius](#dia01)
 * [Dia 2 - Loading customizado](#dia02)
 * [Dia 3 - Texto com cor alterada em nova div com animação](#dia03)
+* [Dia 4 - Botão animado](#dia04)
 
 
 ## Desafio dia 1 - Icones com camadas <a name="dia01"></a>
@@ -88,7 +89,7 @@ When finished, use:
 
 
 
-## Desafio dia 4 - Texto com cor alterada em nova div com animação <a name="dia04></a>
+## Desafio dia 4 - Texto com cor alterada em nova div com animação <a name="dia04"></a>
 ![Dia 03](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia04/dia04.gif)
 
 * [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia04/index.js)
