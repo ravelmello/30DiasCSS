@@ -1,0 +1,103 @@
+* {
+    background-color: black;
+}
+
+div #dia04 {
+    display: flex;
+
+    margin-top: 10%;
+    justify-content: center;
+    height: auto;
+
+    max-width: 300px ;
+
+    border: #333;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+div #dia04 a {
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+    text-decoration: none;
+    text-align: inherit;
+
+    color: #FFF;
+
+    height: 45px;
+    width: 100%;
+    border: 5px solid blueviolet;
+
+    font-weight: bold;
+    font-size: 13px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    transition: all 0.2s;
+
+}
+
+div #dia04 a::before {
+
+    content: "";
+    position: relative;
+    width: 25px;
+    height: 4px;
+    background-color: blueviolet; 
+    transition: .4s linear;
+
+} 
+
+
+div #dia04 a::after {
+
+    content: "";
+    position: relative;
+    width: 25px;
+    height: 5px;
+    background-color: blueviolet; 
+    
+    transition: .4s linear;
+    
+
+} 
+
+
+div #dia04 a::before {    
+    top: -21px;
+    left: 10%;
+}
+
+
+div #dia04 a::after
+{
+    bottom: -20px;
+    right: 10%;
+    
+}
+div #dia04 a:hover::before
+{
+    left: 59%;
+    background-color: #FFF;
+   
+}
+div #dia04 a:hover::after
+{
+    right: 59%;
+    opacity: 0.7;
+    background-color: #FFF;
+    
+}
+
+div #dia04 a:hover {
+    background-color: blueviolet;
+}
+
+

@@ -88,6 +88,19 @@ When finished, use:
 
 
 
+## Desafio dia 4 - Texto com cor alterada em nova div com animação <a name="dia04></a>
+![Dia 03](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia04/dia04.gif)
+
+* [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia04/index.js)
+* [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia04/styles.css)
+* [Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6707841993193623552-Cyjg)
+
+### Referencias estudadas
+* [:hover()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
+* [:after()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::after)
+* [:before()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)
+
+
 
 # Créditos
 Milena Carecho
