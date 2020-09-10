@@ -48,6 +48,7 @@ When finished, use:
 * [Dia 3 - Texto com cor alterada em nova div com animação](#dia03)
 * [Dia 4 - Botão animado](#dia04)
 * [Dia 5 - Pulsação ](#dia05)
+* [Dia 6 - Texto Rainbow](#dia06)
 
 
 ## Desafio dia 1 - Icones com camadas <a name="dia01"></a>
@@ -102,7 +103,9 @@ When finished, use:
 * [:after()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::after)
 * [:before()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/::before)
 
-====
+
+
+
 ## Desafio dia 5 - Pulsação <a name="dia05"></a>
 ![Dia 05](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia05/dia05.gif)
 
@@ -117,6 +120,17 @@ When finished, use:
 
 
 
+## Desafio dia 6 - Texto Rainbow <a name="dia06"></a>
+![Dia 01](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia06/dia06.gif)
+
+* [Codigo React](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia06/index.js)
+* [Estilização](https://github.com/ravelmello/30DiasCSS/blob/master/desafios/src/pages/dia06/styles.css)
+* [Post LinkedIn](https://www.linkedin.com/posts/ravel-mello_30diasdecss-css-html-activity-6709636017248342016-lWMK)
+
+
+### Referencias estudadas
+* [:transition() / cubic-bezier](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition)
+* [@keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)
 
 
 

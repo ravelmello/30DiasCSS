@@ -1,0 +1,131 @@
+div #light {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 91vh;
+    background-color: black;
+    
+
+}
+ul
+{
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+}
+ul li 
+{
+    list-style: none;
+    color: #868585;
+    font-size: 100px;
+    letter-spacing: 10px;
+    animation: rainbow 4s cubic-bezier(0.2, 0.2, 0.2, 2) infinite;
+}
+@keyframes rainbow 
+{
+	0% {
+		color: white;
+		text-shadow: none;
+    }
+    
+    10% {
+        color: red;
+        text-shadow: none
+    }
+
+    20% {
+        color:royalblue;
+        text-shadow: none
+    }
+
+    30% {
+        color: greenyellow;
+        text-shadow: none
+    }
+
+    40%{
+        color: hotpink;
+        text-shadow: none
+    }
+
+    50% {
+        color: aqua;
+    }
+
+    60%{
+        color: red;
+        text-shadow: none
+    }
+
+    70% {
+        color:royalblue;
+        text-shadow: none
+    }
+
+    80% {
+        color: greenyellow;
+        text-shadow: none
+    }
+
+	90% {
+		color: #0397fa;
+		text-shadow: none;
+	}
+
+	100% {
+		color: #fff900;
+		text-shadow: 0 0 8px #f3f3ee, 0 0 50px #1eff00;
+	}
+}
+
+ul li:nth-child(1) 
+{
+	animation-delay: 0
+}
+
+ul li:nth-child(2) 
+{
+	animation-delay: 0.1s
+}
+
+ul li:nth-child(3) 
+{
+	animation-delay: 0.2s
+}
+
+ul li:nth-child(4) 
+{
+	animation-delay: 0.3s
+}
+
+ul li:nth-child(5) 
+{
+	animation-delay: 0.4s
+}
+
+ul li:nth-child(6) 
+{
+	animation-delay: 0.5s
+}
+
+ul li:nth-child(7) 
+{
+	animation-delay: 0.6s
+}
+
+ul li:nth-child(8) 
+{
+	animation-delay: 0.7s
+}
+ul li:nth-child(9) 
+{
+	animation-delay: 0.8s
+}
+ul li:nth-child(10) 
+{
+	animation-delay: 0.9s
+}
+ul li:nth-child(11) 
+{
+	animation-delay: 2s
+}
